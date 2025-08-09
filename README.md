@@ -1,7 +1,7 @@
 # Taherali Khatasiya - Android Developer
 
 ## 📌 About Me
-Highly motivated and detail-oriented Android Developer with over **2 years of experience** in designing, developing, and deploying scalable mobile applications. Skilled in Kotlin, Java, and MVVM architecture, with expertise in RESTful APIs, Firebase, Retrofit, and Dagger Hilt. Adept at collaborating in Agile teams to deliver high-quality, user-focused solutions.
+Highly motivated and detail-oriented Android Developer with over **3+ years of experience** in designing, developing, and deploying scalable mobile applications. Skilled in Kotlin, Java, and MVVM architecture, with expertise in RESTful APIs, Firebase, Retrofit, and Dagger Hilt. Adept at collaborating in Agile teams to deliver high-quality, user-focused solutions.
 
 ---
 
